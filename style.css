@@ -167,7 +167,7 @@ main
 .main-visual {
   height: 600px;
   width: 100%;
-  background: url(../img/mainvisual.png) no-repeat center center/cover;
+  background: url(https://RYOweb39/portfolio/mainvisual.png) no-repeat center center/cover;
   position: relative;
   margin-top: 100px;
 }
@@ -250,7 +250,7 @@ main
   width: 40px;
   height: 40px;
   margin-top: -20px;
-  background: transparent url(../img/arrow-next.png) no-repeat center center/contain;
+  background: transparent url(https://RYOweb39/portfolio/arrow-next.png) no-repeat center center/contain;
 }
 .swiper-button-next::after {
   display: none;
@@ -271,7 +271,7 @@ main
   width: 40px;
   height: 40px;
   margin-top: -20px;
-  background: transparent url(../img/arrow-prev.png) no-repeat center center/contain;
+  background: transparent url(https://RYOweb39/portfolio/arrow-prev.png) no-repeat center center/contain;
 }
 .swiper-button-prev::after {
   display: none;
@@ -491,7 +491,7 @@ News
   transform: translateY(-50%);
   width: 8px;
   height: 16px;
-  background: url(../img/news-arrow.png) no-repeat center center/contain;
+  background: url(https://RYOweb39/portfolio/news-arrow.png) no-repeat center center/contain;
 }
 @media (max-width: 767px) {
   .news_more {
@@ -922,7 +922,7 @@ contact
 .contact_form_input select {
   box-shadow: none;
   border: 1px solid #707070;
-  background: #fff url(/img/select-arrow.png) no-repeat right 12px center/17px 14px;
+  background: #fff url(https://RYOweb39/portfolio/select-arrow.png) no-repeat right 12px center/17px 14px;
   padding: 10px 16px;
   -webkit-appearance: none;
      -moz-appearance: none;
@@ -1021,7 +1021,7 @@ contact
   top: 50%;
   transform: translateY(-50%);
   left: 0;
-  background: transparent url(../img/checkbox.png) no-repeat center center/contain;
+  background: transparent url(https://RYOweb39/portfolio/checkbox.png) no-repeat center center/contain;
   display: none;
 }
 .contact_form_check span a {
@@ -1037,7 +1037,7 @@ contact
   text-align: center;
 }
 .contact_form_button [type=submit] {
-  background: #3F51B5 url(../img/button-arrow.png) no-repeat right 12px center/17px 16px;
+  background: #3F51B5 url(https://RYOweb39/portfolio/button-arrow.png) no-repeat right 12px center/17px 16px;
   width: 304px;
   display: inline-block;
   font-weight: 700;
@@ -1430,7 +1430,7 @@ footer
   transform: translateY(-50%);
   width: 8px;
   height: 11px;
-  background: url(../img/arrow-b.png) no-repeat center center/contain;
+  background: url(https://RYOweb39/portfolio/arrow-b.png) no-repeat center center/contain;
 }
 
 .drawer_bg {
